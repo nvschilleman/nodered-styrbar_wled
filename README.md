@@ -1,5 +1,7 @@
 # IKEA STYRBAR WLED Control
-Flow to recreate the original functionality of the IKEA STYRBAR Zigbee Remote to control WLED functions
+Flow to use the IKEA STYRBAR Zigbee Remote to control WLED functions
+
+![Flow image](https://github.com/nvschilleman/nodered-styrbar_wled/blob/main/flow.jpg?raw=true)
 
 ## Features:
 -   ON|OFF toggle
